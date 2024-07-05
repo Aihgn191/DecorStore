@@ -1,0 +1,265 @@
+﻿@model DecorStore.Models.PaginatedList<DecorStore.Models.Product>
+
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<style>
+    /* Style the dropdown menu */
+    .dropdown-content {
+        display: none;
+        position: absolute;
+        background-color: #fff;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        z-index: 1000; /* Ensure dropdown is above other elements */
+        max-height: 200px; /* Adjust max-height as needed */
+        overflow-y: auto; /* Enable scrolling if needed */
+        width: 100%; /* Set width to match search input */
+        box-sizing: border-box; /* Ensure width includes padding and
+
+                border */
+    }
+    /* Style each suggestion item */
+    .suggestion {
+        padding: 10px;
+        cursor: pointer;
+    }
+        /* Change color of suggestion item on hover */
+        .suggestion:hover {
+            background-color: #f4f4f4;
+        }
+</style>
+
+<div class="container-fluid">
+    <h2 class="position-relative text-uppercase mx-xl-5 mb-4"><span class="bg-secondary pr-3">Danh sách sản phẩm</span></h2>
+    <div class="row">
+        <div class="col-md-9">
+        </div>
+        <div class="col-md-3">
+            <form id="search-form" class="dropdown" method="get">
+                <input style="height: 35px; font-size: 18px; position: relative; left: -1px; top: 1px;" id="search-input" type="text" name="query" placeholder="Tìm Sản phẩm">
+                <div id="search-results" class="dropdown-content"></div>
+                @* <input class="btn btn-info" type="submit" value="Search" /> *@
+                <button style="border-radius: 5px" class="btn btn-info"><i class='fas fa-search'></i> Search</button>
+            </form>
+        </div>
+
+    </div>
+    <div class="row px-xl-5">
+        <div class="col-md-2">
+            <a style="border-radius: 5px;" class="btn btn-info" href="/Admin/quan-tri">Tất cả sản phẩm</a>
+        </div>
+        <div class="col-md-2">
+            <a style="border-radius: 5px;" class="btn btn-info" href="/Admin/quan-tri/them-san-pham">Thêm sản phẩm</a>
+        </div>
+
+    </div>
+    <div class="row px-xl-5">
+
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>
+                        ID
+                    </th>
+                    <th>
+                        Tên sản phẩm
+                    </th>
+                    @* <th>
+                    @Html.DisplayNameFor(model => model.AliasName)
+                    </th> *@
+
+                    <th>
+                        Giá
+                    </th>
+                    <th>
+                        Ảnh
+                    </th>
+                    @* <th>
+                    @Html.DisplayNameFor(model => model.Img2)
+                    </th>
+                    <th>
+                    @Html.DisplayNameFor(model => model.Img3)
+                    </th> *@
+                    <th>
+                        Ngày sản xuất
+                    </th>
+                    <th>
+                        Sale
+                    </th>
+                    @*  <th>
+                    Mô tả
+                    </th> *@
+                    @* <th>
+                    @Html.DisplayNameFor(model => model.Link)
+                    </th> *@
+                    @* <th>
+                    @Html.DisplayNameFor(model => model.Hide)
+                    </th> *@
+                    <th>
+                        Số lượng
+                    </th>
+                    <th>
+                        Đơn vị
+                    </th>
+                    @* <th>
+                    @Html.DisplayNameFor(model => model.IdCateNavigation)
+                    </th> *@
+                    <th>
+                        Nhà phân phối
+                    </th>
+                    <th>
+
+                    </th>
+                    <th>Tác vụ</th>
+                    <th>
+
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.IdProd)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.ProdName)
+                        </td>
+                        @* <td>
+                    @Html.DisplayFor(modelItem => item.AliasName)
+                    </td> *@
+
+                        <td>
+                            $@Html.DisplayFor(modelItem => item.Price)
+                        </td>
+                        <td>
+                            <img src="~/img/Sản Phẩm/@item.Img1" alt="" height="80px" width="80px" />
+                            @* @Html.DisplayFor(modelItem => item.Img1) *@
+                        </td>
+                        @* <td>
+                    @Html.DisplayFor(modelItem => item.Img2)
+                    </td>
+                    <td>
+                    @Html.DisplayFor(modelItem => item.Img3)
+                    </td> *@
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Nsx)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Sale)%
+                        </td>
+                        @* <td>
+                    @Html.DisplayFor(modelItem => item.Description)
+                    </td> *@
+                        @* <td>
+                    @Html.DisplayFor(modelItem => item.Link)
+                    </td>
+                    <td>
+                    @Html.DisplayFor(modelItem => item.Hide)
+                    </td> *@
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Nums)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Unit)
+                        </td>
+
+                        <td>
+                            @Html.DisplayFor(modelItem => item.IdProducerNavigation.ProducerName)
+                        </td>
+                        <td>
+                            <a style="border-radius: 5px;" class="btn btn-info" asp-action="Edit" asp-route-id="@item.IdProd">Edit</a>
+                        </td>
+                        <td><a style="border-radius: 5px;" class="btn btn-info" href="/Admin/quan-tri/chi-tiet/@item.IdProd">Details</a></td>
+                        <td><a style="border-radius: 5px;" class="btn btn-danger" asp-action="Delete" asp-route-id="@item.IdProd">Delete</a></td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+        @{
+            var prevDisabled = !Model.HasPreviousPage ? "disabled" : "";
+            var nextDisabled = !Model.HasNextPage ? "disabled" : "";
+        }
+        <nav aria-label="Page navigation example">
+            <ul class="pagination">
+                <li class="page-item">
+                    <a asp-action="Index"
+                       asp-route-pageNumber="@(Model.PageIndex - 1)" class="btn btn-default @prevDisabled">
+                        Previous
+                    </a>
+                </li>
+                @for (int i = 1; i <= @Model.TotalPages; i++)
+                {
+                    <li class="page-item @(i == @Model.PageIndex ?"active" : "")">
+
+                        <a class="page-link" href="@Url.Action("Index", new { pageNumber = i })">@i</a>
+
+                    </li>
+                }
+                <li class="page-item">
+                    <a asp-action="Index" asp-route-pageNumber="@(Model.PageIndex + 1)"
+                       class="btn btn-default @nextDisabled">
+                        Next
+                    </a>
+                </li>
+            </ul>
+        </nav>
+
+
+
+    </div>
+</div>
+<script>
+    $(document).ready(function () {
+        $("#search-input").keyup(function () {
+            var query = $(this).val();
+            if (query !== '') {
+                $.ajax({
+                    url: "/Products/SearchSuggestions",
+                    type: "GET",
+                    data: { query: query },
+                    dataType: "json",
+                    success: function (data) {
+                        $("#search-results").empty();
+                        $.each(data, function (index, suggestion) {
+                            $("#search-results").append("<div class='suggestion'>
+                " +
+
+                suggestion + "
+                                < /div>");
+
+                                    });
+                        $(".dropdown-content").css("display", "block");
+                    },
+                    error: function (xhr, status, error) {
+                        console.log("Error:", error);
+                    }
+                });
+            } else {
+                $("#search-results").empty();
+                $(".dropdown-content").css("display", "none");
+            }
+        });
+        $(document).on("click", ".suggestion", function () {
+            var selectedSuggestion = $(this).text();
+            $("#search-input").val(selectedSuggestion);
+
+            $("#search-results").empty();
+            $(".dropdown-content").css("display", "none");
+        });
+        $(document).click(function (event) {
+            if (!$(event.target).closest('.dropdown').length) {
+                $(".dropdown-content").css("display", "none");
+            }
+        });
+    }
+</script>
+
+
+
+

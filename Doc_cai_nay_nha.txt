@@ -1,0 +1,27 @@
+Scaffold-DbContext "Server=...;Database=database;Trusted_Connection=True;TrustServerCertificate=true;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
+
+
+*Tài khoản web
+-Phải đăng nhập mới có thể thêm giỏ hàng được-
+
+role: Member mọi người có thể tự đăng ký để đăng nhập
+
+role: Admin 
+
+TK: Admin
+MK: Admin1!
+
+
+
+*Tài khoản test paypal
+
+-tài khoản paypal của khách khi login mua hàng-
+
+TK: sb-so5px30521570@personal.example.com
+MK: JtOG3rO+
+
+
+-tài khoản của chủ, kt xem tiền có về chưa ( bắt buộc đăng nhập link này https://www.sandbox.paypal.com/us/home )-
+
+TK:  sb-j8eeu30291713@business.example.com  sb-so5px30521570@personal.example.com JtOG3rO+
+MK:  rTz554M^ 

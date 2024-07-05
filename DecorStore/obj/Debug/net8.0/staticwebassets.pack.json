@@ -1,0 +1,1393 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DecorStore.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DecorStore.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\css\\style.min.css",
+      "PackagePath": "staticwebassets\\css\\style.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Gundam1(1).jpg",
+      "PackagePath": "staticwebassets\\img\\Gundam1(1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Gundam1(2).jpg",
+      "PackagePath": "staticwebassets\\img\\Gundam1(2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Gundam1(3).jpg",
+      "PackagePath": "staticwebassets\\img\\Gundam1(3).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Gundam2(1).jpg",
+      "PackagePath": "staticwebassets\\img\\Gundam2(1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Gundam2(2).jpg",
+      "PackagePath": "staticwebassets\\img\\Gundam2(2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Gundam2(3).jpg",
+      "PackagePath": "staticwebassets\\img\\Gundam2(3).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Nhà Cung Cấp\\Bandai.jpg",
+      "PackagePath": "staticwebassets\\img\\Nhà Cung Cấp\\Bandai.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Nhà Cung Cấp\\Edifier.jpg",
+      "PackagePath": "staticwebassets\\img\\Nhà Cung Cấp\\Edifier.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Nhà Cung Cấp\\Epione.jpg",
+      "PackagePath": "staticwebassets\\img\\Nhà Cung Cấp\\Epione.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Nhà Cung Cấp\\Ikea.jpg",
+      "PackagePath": "staticwebassets\\img\\Nhà Cung Cấp\\Ikea.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Nhà Cung Cấp\\JBL.jpg",
+      "PackagePath": "staticwebassets\\img\\Nhà Cung Cấp\\JBL.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Nhà Cung Cấp\\Pulsar.jpg",
+      "PackagePath": "staticwebassets\\img\\Nhà Cung Cấp\\Pulsar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Nhà Cung Cấp\\Titan.jpg",
+      "PackagePath": "staticwebassets\\img\\Nhà Cung Cấp\\Titan.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Nhà Cung Cấp\\Xiaomi.jpg",
+      "PackagePath": "staticwebassets\\img\\Nhà Cung Cấp\\Xiaomi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Ban1(1).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Ban1(1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Ban1(2).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Ban1(2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Ban1(3).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Ban1(3).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Ban2(1).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Ban2(1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Ban2(2).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Ban2(2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Ban2(3).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Ban2(3).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Ban3(1).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Ban3(1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Ban3(2).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Ban3(2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Ban3(3).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Ban3(3).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Denban1(1).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Denban1(1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Denban1(2).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Denban1(2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Denban1(3).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Denban1(3).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Denban2(1).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Denban2(1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Denban2(2).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Denban2(2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Denban2(3).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Denban2(3).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Denngu1(1).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Denngu1(1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Denngu1(2).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Denngu1(2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Denngu1(3).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Denngu1(3).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Denngu2(1).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Denngu2(1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Denngu2(2).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Denngu2(2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Denngu2(3).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Denngu2(3).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Denngu3(1).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Denngu3(1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Denngu3(2).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Denngu3(2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Denngu3(3).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Denngu3(3).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Ghe1(1).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Ghe1(1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Ghe1(2).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Ghe1(2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Ghe1(3).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Ghe1(3).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Ghe2(1).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Ghe2(1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Ghe2(2).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Ghe2(2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Ghe2(3).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Ghe2(3).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Gundam1(1).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Gundam1(1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Gundam1(2).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Gundam1(2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Gundam1(3).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Gundam1(3).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Gundam2(1).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Gundam2(1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Gundam2(2).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Gundam2(2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Gundam2(3).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Gundam2(3).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Gundam3(1).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Gundam3(1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Gundam3(2).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Gundam3(2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Gundam3(3).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Gundam3(3).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Gundam4(1).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Gundam4(1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Gundam4(2).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Gundam4(2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Gundam4(3).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Gundam4(3).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Gundam5(1).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Gundam5(1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Gundam5(2).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Gundam5(2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Gundam5(3).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Gundam5(3).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Ke1(1).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Ke1(1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Ke1(2).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Ke1(2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Ke1(3).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Ke1(3).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Ke2(1).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Ke2(1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Ke2(2).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Ke2(2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Ke2(3).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Ke2(3).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Ke3(1).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Ke3(1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Ke3(2).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Ke3(2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Ke3(3).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Ke3(3).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Ke4(1).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Ke4(1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Ke4(2).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Ke4(2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Ke4(3).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Ke4(3).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Ke5(1).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Ke5(1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Ke5(2).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Ke5(2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Ke5(3).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Ke5(3).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Loa1(1).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Loa1(1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Loa1(2).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Loa1(2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Loa1(3).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Loa1(3).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Loa2(1).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Loa2(1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Loa2(2).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Loa2(2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Loa2(3).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Loa2(3).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Loa3(1).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Loa3(1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Loa3(2).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Loa3(2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Loa3(3).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Loa3(3).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Loa4(1).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Loa4(1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Loa4(2).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Loa4(2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Loa4(3).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Loa4(3).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Loa5(1).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Loa5(1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Loa5(2).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Loa5(2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Loa5(3).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Loa5(3).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Lotchuot1(1).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Lotchuot1(1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Lotchuot1(2).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Lotchuot1(2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Lotchuot1(3).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Lotchuot1(3).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Lotchuot2(1).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Lotchuot2(1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Lotchuot2(2).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Lotchuot2(2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Lotchuot2(3).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Lotchuot2(3).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Lotchuot3(1).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Lotchuot3(1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Lotchuot3(2).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Lotchuot3(2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Lotchuot3(3).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Lotchuot3(3).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Lotchuot4(1).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Lotchuot4(1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Lotchuot4(2).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Lotchuot4(2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Lotchuot4(3).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Lotchuot4(3).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Lotchuot5(1).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Lotchuot5(1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Lotchuot5(2).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Lotchuot5(2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Lotchuot5(3).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Lotchuot5(3).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Pegboard1(1).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Pegboard1(1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Pegboard1(2).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Pegboard1(2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Pegboard1(3).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Pegboard1(3).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Pegboard2(1).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Pegboard2(1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Pegboard2(2).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Pegboard2(2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Pegboard2(3).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Pegboard2(3).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Pegboard3(1).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Pegboard3(1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Pegboard3(2).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Pegboard3(2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Pegboard3(3).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Pegboard3(3).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Pegboard4(1).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Pegboard4(1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Pegboard4(2).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Pegboard4(2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Pegboard4(3).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Pegboard4(3).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Pegboard5(1).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Pegboard5(1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Pegboard5(2).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Pegboard5(2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Pegboard5(3).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Pegboard5(3).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Poster1(1).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Poster1(1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Poster1(2).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Poster1(2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Poster1(3).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Poster1(3).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Poster2(1).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Poster2(1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Poster2(2).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Poster2(2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Poster2(3).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Poster2(3).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Poster3(1).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Poster3(1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Poster3(2).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Poster3(2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Poster3(3).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Poster3(3).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Poster4(1).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Poster4(1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Poster4(2).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Poster4(2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Poster4(3).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Poster4(3).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Poster5(1).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Poster5(1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Poster5(2).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Poster5(2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Sản Phẩm\\Poster5(3).jpg",
+      "PackagePath": "staticwebassets\\img\\Sản Phẩm\\Poster5(3).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\cart.jpg",
+      "PackagePath": "staticwebassets\\img\\cart.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\cart.png",
+      "PackagePath": "staticwebassets\\img\\cart.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\cat-1.jpg",
+      "PackagePath": "staticwebassets\\img\\cat-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\cat-2.jpg",
+      "PackagePath": "staticwebassets\\img\\cat-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\cat-3.jpg",
+      "PackagePath": "staticwebassets\\img\\cat-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\cat-4.jpg",
+      "PackagePath": "staticwebassets\\img\\cat-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\giamgia.jpg",
+      "PackagePath": "staticwebassets\\img\\giamgia.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\logo2.jpg",
+      "PackagePath": "staticwebassets\\img\\logo2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\offer-1.jpg",
+      "PackagePath": "staticwebassets\\img\\offer-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\offer-2.jpg",
+      "PackagePath": "staticwebassets\\img\\offer-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\payments.png",
+      "PackagePath": "staticwebassets\\img\\payments.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\product-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\product-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\product-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\product-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\product-5.jpg",
+      "PackagePath": "staticwebassets\\img\\product-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\product-6.jpg",
+      "PackagePath": "staticwebassets\\img\\product-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\product-7.jpg",
+      "PackagePath": "staticwebassets\\img\\product-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\product-8.jpg",
+      "PackagePath": "staticwebassets\\img\\product-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\product-9.jpg",
+      "PackagePath": "staticwebassets\\img\\product-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\spmoi.jpg",
+      "PackagePath": "staticwebassets\\img\\spmoi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\user.jpg",
+      "PackagePath": "staticwebassets\\img\\user.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\vendor-1.jpg",
+      "PackagePath": "staticwebassets\\img\\vendor-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\vendor-2.jpg",
+      "PackagePath": "staticwebassets\\img\\vendor-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\vendor-3.jpg",
+      "PackagePath": "staticwebassets\\img\\vendor-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\vendor-4.jpg",
+      "PackagePath": "staticwebassets\\img\\vendor-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\vendor-5.jpg",
+      "PackagePath": "staticwebassets\\img\\vendor-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\vendor-6.jpg",
+      "PackagePath": "staticwebassets\\img\\vendor-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\vendor-7.jpg",
+      "PackagePath": "staticwebassets\\img\\vendor-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\vendor-8.jpg",
+      "PackagePath": "staticwebassets\\img\\vendor-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Ảnh Nền\\nen1.jpg",
+      "PackagePath": "staticwebassets\\img\\Ảnh Nền\\nen1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Ảnh Nền\\nen2.jpg",
+      "PackagePath": "staticwebassets\\img\\Ảnh Nền\\nen2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\img\\Ảnh Nền\\nen3.jpg",
+      "PackagePath": "staticwebassets\\img\\Ảnh Nền\\nen3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\js\\cart.js",
+      "PackagePath": "staticwebassets\\js\\cart.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\lib\\animate\\animate.min.css",
+      "PackagePath": "staticwebassets\\lib\\animate\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\mail\\contact.js",
+      "PackagePath": "staticwebassets\\mail\\contact.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\mail\\contact.php",
+      "PackagePath": "staticwebassets\\mail\\contact.php"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\mail\\jqBootstrapValidation.min.js",
+      "PackagePath": "staticwebassets\\mail\\jqBootstrapValidation.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\_code.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_code.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_custom-forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\_input-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_jumbotron.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\_media.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_media.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\_print.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_print.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_size.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_align.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_display.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_interactions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_interactions.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_overflow.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_overflow.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_text.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\scss\\style.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DecorStore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.DecorStore.props",
+      "PackagePath": "build\\DecorStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.DecorStore.props",
+      "PackagePath": "buildMultiTargeting\\DecorStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.DecorStore.props",
+      "PackagePath": "buildTransitive\\DecorStore.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

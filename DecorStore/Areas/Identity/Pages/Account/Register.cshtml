@@ -1,0 +1,79 @@
+﻿@page
+@model RegisterModel
+@{
+    ViewBag.Apply = false;
+}
+
+
+
+<div class="row px-xl-5">
+    <div class="col-md-1">
+    </div>
+
+    <div style="margin-top:20px" class="col-md-4">
+        <form id="registerForm" asp-route-returnUrl="@Model.ReturnUrl" method="post">
+            <h2>Tạo tài khoản mới</h2>
+            <hr />
+            <div asp-validation-summary="ModelOnly" class="text-danger" role="alert"></div>
+            <div class="form-floating mb-3">
+                <label asp-for="Input.UserName">UserName</label>
+                <input asp-for="Input.UserName" class="form-control" autocomplete="UserName" aria-required="true" placeholder="Username" />
+
+                <span asp-validation-for="Input.Email" class="text-danger"></span>
+            </div>
+            <div class="form-floating mb-3">
+                <label asp-for="Input.FullName">FullName</label>
+                <input asp-for="Input.FullName" class="form-control" autocomplete="FullName" aria-required="true" placeholder="Nguyen Van A" />
+
+                <span asp-validation-for="Input.FullName" class="text-danger"></span>
+            </div>
+            <div class="form-floating mb-3">
+                <label asp-for="Input.Email">Email</label>
+                <input asp-for="Input.Email" class="form-control" autocomplete="Password" aria-required="true" placeholder="name@example.com" />
+
+                <span asp-validation-for="Input.Email" class="text-danger"></span>
+            </div>
+            <div class="form-floating mb-3">
+                <label asp-for="Input.PhoneNumber">PhoneNumber</label>
+                <input asp-for="Input.PhoneNumber" class="form-control" autocomplete="PhoneNumber" aria-required="true" placeholder="+0123456789" />
+
+                <span asp-validation-for="Input.PhoneNumber" class="text-danger"></span>
+            </div>
+            <div class="form-floating mb-3">
+                <label asp-for="Input.Address">Address</label>
+                <input asp-for="Input.Address" class="form-control" autocomplete="Address" aria-required="true" placeholder="Address" />
+
+                <span asp-validation-for="Input.Address" class="text-danger"></span>
+            </div>
+            <div class="form-floating mb-3">
+                <label asp-for="Input.Password">Password</label>
+                <input asp-for="Input.Password" class="form-control" autocomplete="new-password" aria-required="true" placeholder="password" />
+
+                <span asp-validation-for="Input.Password" class="text-danger"></span>
+            </div>
+            <div class="form-floating mb-3">
+                <label asp-for="Input.ConfirmPassword">Confirm Password</label>
+                <input asp-for="Input.ConfirmPassword" class="form-control" autocomplete="new-password" aria-required="true" placeholder="password" />
+
+                <span asp-validation-for="Input.ConfirmPassword" class="text-danger"></span>
+            </div>
+            
+            <button id="registerSubmit" type="submit" class="w-100 btn btn-lg btn-info">Register</button>
+        </form>
+    </div>
+    <div class="col-md-1">
+    </div>
+    <div style="margin-top:20px" class="col-md-5 col-md-offset-2">
+        <section>
+            <h3>Đăng ký tài khoản bằng cách khác</h3>
+            <hr />
+            @{
+                <p>Hiện tại trang web đang cập nhật thêm các dịch vụ đăng ký bên ngoài</p>
+            }
+        </section>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

@@ -1,0 +1,484 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Downloads\\DecorStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B48F7273-A20C-425A-A4CF-32F5DBB77A54}|DecorStore\\DecorStore.csproj|c:\\users\\asus\\downloads\\decorstore\\decorstore\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B48F7273-A20C-425A-A4CF-32F5DBB77A54}|DecorStore\\DecorStore.csproj|solutionrelative:decorstore\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48F7273-A20C-425A-A4CF-32F5DBB77A54}|DecorStore\\DecorStore.csproj|c:\\users\\asus\\downloads\\decorstore\\decorstore\\wwwroot\\js\\cart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B48F7273-A20C-425A-A4CF-32F5DBB77A54}|DecorStore\\DecorStore.csproj|solutionrelative:decorstore\\wwwroot\\js\\cart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48F7273-A20C-425A-A4CF-32F5DBB77A54}|DecorStore\\DecorStore.csproj|c:\\users\\asus\\downloads\\decorstore\\decorstore\\views\\product\\proddetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B48F7273-A20C-425A-A4CF-32F5DBB77A54}|DecorStore\\DecorStore.csproj|solutionrelative:decorstore\\views\\product\\proddetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48F7273-A20C-425A-A4CF-32F5DBB77A54}|DecorStore\\DecorStore.csproj|c:\\users\\asus\\downloads\\decorstore\\decorstore\\views\\user\\infouser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B48F7273-A20C-425A-A4CF-32F5DBB77A54}|DecorStore\\DecorStore.csproj|solutionrelative:decorstore\\views\\user\\infouser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48F7273-A20C-425A-A4CF-32F5DBB77A54}|DecorStore\\DecorStore.csproj|c:\\users\\asus\\downloads\\decorstore\\decorstore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B48F7273-A20C-425A-A4CF-32F5DBB77A54}|DecorStore\\DecorStore.csproj|solutionrelative:decorstore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48F7273-A20C-425A-A4CF-32F5DBB77A54}|DecorStore\\DecorStore.csproj|c:\\users\\asus\\downloads\\decorstore\\decorstore\\views\\info\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B48F7273-A20C-425A-A4CF-32F5DBB77A54}|DecorStore\\DecorStore.csproj|solutionrelative:decorstore\\views\\info\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48F7273-A20C-425A-A4CF-32F5DBB77A54}|DecorStore\\DecorStore.csproj|c:\\users\\asus\\downloads\\decorstore\\decorstore\\areas\\admin\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B48F7273-A20C-425A-A4CF-32F5DBB77A54}|DecorStore\\DecorStore.csproj|solutionrelative:decorstore\\areas\\admin\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48F7273-A20C-425A-A4CF-32F5DBB77A54}|DecorStore\\DecorStore.csproj|c:\\users\\asus\\downloads\\decorstore\\decorstore\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B48F7273-A20C-425A-A4CF-32F5DBB77A54}|DecorStore\\DecorStore.csproj|solutionrelative:decorstore\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48F7273-A20C-425A-A4CF-32F5DBB77A54}|DecorStore\\DecorStore.csproj|c:\\users\\asus\\downloads\\decorstore\\decorstore\\areas\\admin\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B48F7273-A20C-425A-A4CF-32F5DBB77A54}|DecorStore\\DecorStore.csproj|solutionrelative:decorstore\\areas\\admin\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48F7273-A20C-425A-A4CF-32F5DBB77A54}|DecorStore\\DecorStore.csproj|c:\\users\\asus\\downloads\\decorstore\\decorstore\\areas\\admin\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B48F7273-A20C-425A-A4CF-32F5DBB77A54}|DecorStore\\DecorStore.csproj|solutionrelative:decorstore\\areas\\admin\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48F7273-A20C-425A-A4CF-32F5DBB77A54}|DecorStore\\DecorStore.csproj|c:\\users\\asus\\downloads\\decorstore\\decorstore\\areas\\admin\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B48F7273-A20C-425A-A4CF-32F5DBB77A54}|DecorStore\\DecorStore.csproj|solutionrelative:decorstore\\areas\\admin\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48F7273-A20C-425A-A4CF-32F5DBB77A54}|DecorStore\\DecorStore.csproj|c:\\users\\asus\\downloads\\decorstore\\decorstore\\areas\\admin\\views\\products\\_navbarpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B48F7273-A20C-425A-A4CF-32F5DBB77A54}|DecorStore\\DecorStore.csproj|solutionrelative:decorstore\\areas\\admin\\views\\products\\_navbarpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48F7273-A20C-425A-A4CF-32F5DBB77A54}|DecorStore\\DecorStore.csproj|c:\\users\\asus\\downloads\\decorstore\\decorstore\\views\\cart\\payment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B48F7273-A20C-425A-A4CF-32F5DBB77A54}|DecorStore\\DecorStore.csproj|solutionrelative:decorstore\\views\\cart\\payment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48F7273-A20C-425A-A4CF-32F5DBB77A54}|DecorStore\\DecorStore.csproj|c:\\users\\asus\\downloads\\decorstore\\decorstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B48F7273-A20C-425A-A4CF-32F5DBB77A54}|DecorStore\\DecorStore.csproj|solutionrelative:decorstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48F7273-A20C-425A-A4CF-32F5DBB77A54}|DecorStore\\DecorStore.csproj|c:\\users\\asus\\downloads\\decorstore\\decorstore\\helper\\paypalclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B48F7273-A20C-425A-A4CF-32F5DBB77A54}|DecorStore\\DecorStore.csproj|solutionrelative:decorstore\\helper\\paypalclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48F7273-A20C-425A-A4CF-32F5DBB77A54}|DecorStore\\DecorStore.csproj|c:\\users\\asus\\downloads\\decorstore\\decorstore\\views\\product\\cateprod.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B48F7273-A20C-425A-A4CF-32F5DBB77A54}|DecorStore\\DecorStore.csproj|solutionrelative:decorstore\\views\\product\\cateprod.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48F7273-A20C-425A-A4CF-32F5DBB77A54}|DecorStore\\DecorStore.csproj|c:\\users\\asus\\downloads\\decorstore\\decorstore\\views\\cart\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B48F7273-A20C-425A-A4CF-32F5DBB77A54}|DecorStore\\DecorStore.csproj|solutionrelative:decorstore\\views\\cart\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48F7273-A20C-425A-A4CF-32F5DBB77A54}|DecorStore\\DecorStore.csproj|c:\\users\\asus\\downloads\\decorstore\\decorstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B48F7273-A20C-425A-A4CF-32F5DBB77A54}|DecorStore\\DecorStore.csproj|solutionrelative:decorstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48F7273-A20C-425A-A4CF-32F5DBB77A54}|DecorStore\\DecorStore.csproj|c:\\users\\asus\\downloads\\decorstore\\decorstore\\views\\product\\_navbarpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B48F7273-A20C-425A-A4CF-32F5DBB77A54}|DecorStore\\DecorStore.csproj|solutionrelative:decorstore\\views\\product\\_navbarpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48F7273-A20C-425A-A4CF-32F5DBB77A54}|DecorStore\\DecorStore.csproj|c:\\users\\asus\\downloads\\decorstore\\decorstore\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B48F7273-A20C-425A-A4CF-32F5DBB77A54}|DecorStore\\DecorStore.csproj|solutionrelative:decorstore\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48F7273-A20C-425A-A4CF-32F5DBB77A54}|DecorStore\\DecorStore.csproj|c:\\users\\asus\\downloads\\decorstore\\decorstore\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B48F7273-A20C-425A-A4CF-32F5DBB77A54}|DecorStore\\DecorStore.csproj|solutionrelative:decorstore\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48F7273-A20C-425A-A4CF-32F5DBB77A54}|DecorStore\\DecorStore.csproj|c:\\users\\asus\\downloads\\decorstore\\decorstore\\views\\home\\_navbarpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B48F7273-A20C-425A-A4CF-32F5DBB77A54}|DecorStore\\DecorStore.csproj|solutionrelative:decorstore\\views\\home\\_navbarpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48F7273-A20C-425A-A4CF-32F5DBB77A54}|DecorStore\\DecorStore.csproj|c:\\users\\asus\\downloads\\decorstore\\decorstore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B48F7273-A20C-425A-A4CF-32F5DBB77A54}|DecorStore\\DecorStore.csproj|solutionrelative:decorstore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48F7273-A20C-425A-A4CF-32F5DBB77A54}|DecorStore\\DecorStore.csproj|c:\\users\\asus\\downloads\\decorstore\\decorstore\\views\\info\\_navbarpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B48F7273-A20C-425A-A4CF-32F5DBB77A54}|DecorStore\\DecorStore.csproj|solutionrelative:decorstore\\views\\info\\_navbarpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48F7273-A20C-425A-A4CF-32F5DBB77A54}|DecorStore\\DecorStore.csproj|c:\\users\\asus\\downloads\\decorstore\\decorstore\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B48F7273-A20C-425A-A4CF-32F5DBB77A54}|DecorStore\\DecorStore.csproj|solutionrelative:decorstore\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48F7273-A20C-425A-A4CF-32F5DBB77A54}|DecorStore\\DecorStore.csproj|c:\\users\\asus\\downloads\\decorstore\\decorstore\\views\\product\\newprod.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B48F7273-A20C-425A-A4CF-32F5DBB77A54}|DecorStore\\DecorStore.csproj|solutionrelative:decorstore\\views\\product\\newprod.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48F7273-A20C-425A-A4CF-32F5DBB77A54}|DecorStore\\DecorStore.csproj|c:\\users\\asus\\downloads\\decorstore\\decorstore\\views\\product\\saleprod.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B48F7273-A20C-425A-A4CF-32F5DBB77A54}|DecorStore\\DecorStore.csproj|solutionrelative:decorstore\\views\\product\\saleprod.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48F7273-A20C-425A-A4CF-32F5DBB77A54}|DecorStore\\DecorStore.csproj|c:\\users\\asus\\downloads\\decorstore\\decorstore\\wwwroot\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B48F7273-A20C-425A-A4CF-32F5DBB77A54}|DecorStore\\DecorStore.csproj|solutionrelative:decorstore\\wwwroot\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1683,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "DecorStore\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "DecorStore\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAAAiwCYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-29T21:10:23.282Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "DecorStore\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "DecorStore\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T06:29:26.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\Areas\\Admin\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "DecorStore\\Areas\\Admin\\Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\Areas\\Admin\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "DecorStore\\Areas\\Admin\\Views\\Products\\Create.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T06:29:15.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "DecorStore\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "DecorStore\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T06:29:11.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\Areas\\Admin\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DecorStore\\Areas\\Admin\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\Areas\\Admin\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "DecorStore\\Areas\\Admin\\Views\\Products\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T06:29:10.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_NavbarPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\Areas\\Admin\\Views\\Products\\_NavbarPartial.cshtml",
+              "RelativeDocumentMoniker": "DecorStore\\Areas\\Admin\\Views\\Products\\_NavbarPartial.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\Areas\\Admin\\Views\\Products\\_NavbarPartial.cshtml",
+              "RelativeToolTip": "DecorStore\\Areas\\Admin\\Views\\Products\\_NavbarPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T06:29:10.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\appsettings.json",
+              "RelativeDocumentMoniker": "DecorStore\\appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\appsettings.json",
+              "RelativeToolTip": "DecorStore\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-01T10:22:06.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PaypalClient.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\Helper\\PaypalClient.cs",
+              "RelativeDocumentMoniker": "DecorStore\\Helper\\PaypalClient.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\Helper\\PaypalClient.cs",
+              "RelativeToolTip": "DecorStore\\Helper\\PaypalClient.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAiwE4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T10:15:24.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\Program.cs",
+              "RelativeDocumentMoniker": "DecorStore\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\Program.cs",
+              "RelativeToolTip": "DecorStore\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T10:14:54.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InfoUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\Views\\User\\InfoUser.cshtml",
+              "RelativeDocumentMoniker": "DecorStore\\Views\\User\\InfoUser.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\Views\\User\\InfoUser.cshtml",
+              "RelativeToolTip": "DecorStore\\Views\\User\\InfoUser.cshtml",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAAFAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T08:10:16.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Success.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\Views\\Cart\\Success.cshtml",
+              "RelativeDocumentMoniker": "DecorStore\\Views\\Cart\\Success.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\Views\\Cart\\Success.cshtml",
+              "RelativeToolTip": "DecorStore\\Views\\Cart\\Success.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T07:07:51.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Payment.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\Views\\Cart\\Payment.cshtml",
+              "RelativeDocumentMoniker": "DecorStore\\Views\\Cart\\Payment.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\Views\\Cart\\Payment.cshtml",
+              "RelativeToolTip": "DecorStore\\Views\\Cart\\Payment.cshtml",
+              "ViewState": "AQIAALQAAAAAAAAAAAAAAMgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T07:07:38.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_NavbarPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\Views\\Home\\_NavbarPartial.cshtml",
+              "RelativeDocumentMoniker": "DecorStore\\Views\\Home\\_NavbarPartial.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\Views\\Home\\_NavbarPartial.cshtml",
+              "RelativeToolTip": "DecorStore\\Views\\Home\\_NavbarPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T07:07:35.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\Views\\Info\\Index.cshtml",
+              "RelativeDocumentMoniker": "DecorStore\\Views\\Info\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\Views\\Info\\Index.cshtml",
+              "RelativeToolTip": "DecorStore\\Views\\Info\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T07:07:33.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_NavbarPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\Views\\Product\\_NavbarPartial.cshtml",
+              "RelativeDocumentMoniker": "DecorStore\\Views\\Product\\_NavbarPartial.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\Views\\Product\\_NavbarPartial.cshtml",
+              "RelativeToolTip": "DecorStore\\Views\\Product\\_NavbarPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T07:07:33.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "DecorStore\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "DecorStore\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T07:07:31.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "DecorStore\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\Controllers\\CartController.cs",
+              "RelativeToolTip": "DecorStore\\Controllers\\CartController.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAiwJsAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T07:10:59.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "DecorStore\\Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\Models\\CartItem.cs",
+              "RelativeToolTip": "DecorStore\\Models\\CartItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T21:07:08.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "DecorStore\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "DecorStore\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-29T21:04:30.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DecorStore\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DecorStore\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAOIAAACCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-29T21:04:29.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_NavbarPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\Views\\Info\\_NavbarPartial.cshtml",
+              "RelativeDocumentMoniker": "DecorStore\\Views\\Info\\_NavbarPartial.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\Views\\Info\\_NavbarPartial.cshtml",
+              "RelativeToolTip": "DecorStore\\Views\\Info\\_NavbarPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-29T21:04:28.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "NewProd.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\Views\\Product\\NewProd.cshtml",
+              "RelativeDocumentMoniker": "DecorStore\\Views\\Product\\NewProd.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\Views\\Product\\NewProd.cshtml",
+              "RelativeToolTip": "DecorStore\\Views\\Product\\NewProd.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-29T21:04:26.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SaleProd.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\Views\\Product\\SaleProd.cshtml",
+              "RelativeDocumentMoniker": "DecorStore\\Views\\Product\\SaleProd.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\Views\\Product\\SaleProd.cshtml",
+              "RelativeToolTip": "DecorStore\\Views\\Product\\SaleProd.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-29T21:04:25.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CateProd.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\Views\\Product\\CateProd.cshtml",
+              "RelativeDocumentMoniker": "DecorStore\\Views\\Product\\CateProd.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\Views\\Product\\CateProd.cshtml",
+              "RelativeToolTip": "DecorStore\\Views\\Product\\CateProd.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-29T19:04:02.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "main.js",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\js\\main.js",
+              "RelativeDocumentMoniker": "DecorStore\\wwwroot\\js\\main.js",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\js\\main.js",
+              "RelativeToolTip": "DecorStore\\wwwroot\\js\\main.js",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-27T08:39:49.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "cart.js",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\js\\cart.js",
+              "RelativeDocumentMoniker": "DecorStore\\wwwroot\\js\\cart.js",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\wwwroot\\js\\cart.js",
+              "RelativeToolTip": "DecorStore\\wwwroot\\js\\cart.js",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-27T08:39:46.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProdDetail.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\Views\\Product\\ProdDetail.cshtml",
+              "RelativeDocumentMoniker": "DecorStore\\Views\\Product\\ProdDetail.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\Views\\Product\\ProdDetail.cshtml",
+              "RelativeToolTip": "DecorStore\\Views\\Product\\ProdDetail.cshtml",
+              "ViewState": "AQIAAMwAAAAAAAAAAAAAAMgAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T07:04:30.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DecorStore\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\DecorStore\\DecorStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DecorStore\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAADkAAACLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T06:48:00.261Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

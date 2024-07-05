@@ -1,0 +1,120 @@
+﻿@model DecorStore.Models.Product
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+}
+<div class="container-fluid">
+    <h2 class="section-title position-relative text-uppercase mx-xl-5 mb-4"><span class="bg-secondary pr-3">@Model.ProdName</span></h2>
+    <div class="row">
+        <div class="col-md-1">
+        </div>
+        <div class="col-md-10">
+            <div>
+                <hr />
+                <dl class="row">
+
+                    <dt class="col-sm-2">
+                        Sản phẩm
+                    </dt>
+                    <dd class="col-sm-10">
+                        @Html.DisplayFor(model => model.ProdName)
+                    </dd>
+                    @* <dt class="col-sm-2">
+                        @Html.DisplayNameFor(model => model.AliasName)
+                    </dt>
+                    <dd class="col-sm-10">
+                        @Html.DisplayFor(model => model.AliasName)
+                    </dd> *@
+                    <dt class="col-sm-2">
+                        Đơn vị
+                    </dt>
+                    <dd class="col-sm-10">
+                        @Html.DisplayFor(model => model.Unit)
+                    </dd>
+                    <dt class="col-sm-2">
+                        Giá
+                    </dt>
+                    <dd class="col-sm-10">
+                        $@Html.DisplayFor(model => model.Price)
+                    </dd>
+                    <dt class="col-sm-2">
+                        Ảnh 1
+                    </dt>
+                    <dd class="col-sm-10">
+                        <img src="~/img/Sản Phẩm/@Model.Img1" alt="" height="90px" width="90px" />
+                    </dd>
+                    <dt class="col-sm-2">
+                        Ảnh 2
+                    </dt>
+                    <dd class="col-sm-10">
+                        <img src="~/img/Sản Phẩm/@Model.Img2" alt="" height="90px" width="90px" />
+                    </dd>
+                    <dt class="col-sm-2">
+                        Ảnh 3
+                    </dt>
+                    <dd class="col-sm-10">
+                        <img src="~/img/Sản Phẩm/@Model.Img3" alt="" height="90px" width="90px" />
+                    </dd>
+                    <dt class="col-sm-2">
+                        Ngày sản xuất
+                    </dt>
+                    <dd class="col-sm-10">
+                        @Html.DisplayFor(model => model.Nsx)
+                    </dd>
+                    <dt class="col-sm-2">
+                        @Html.DisplayNameFor(model => model.Sale)
+                    </dt>
+                    <dd class="col-sm-10">
+                        @Html.DisplayFor(model => model.Sale)%
+                    </dd>
+                    <dt class="col-sm-2">
+                        Mô tả
+                    </dt>
+                    <dd class="col-sm-10">
+                        @Html.DisplayFor(model => model.Description)
+                    </dd>
+                    <dt class="col-sm-2">
+                        @Html.DisplayNameFor(model => model.Link)
+                    </dt>
+                    <dd class="col-sm-10">
+                        @Html.DisplayFor(model => model.Link)
+                    </dd>
+                    @* <dt class="col-sm-2">
+                        @Html.DisplayNameFor(model => model.Hide)
+                    </dt>
+                    <dd class="col-sm-10">
+                        @Html.DisplayFor(model => model.Hide)
+                    </dd> *@
+                    <dt class="col-sm-2">
+                        Số lượng
+                    </dt>
+                    <dd class="col-sm-10">
+                        @Html.DisplayFor(model => model.Nums)
+                    </dd>
+                    @* <dt class="col-sm-2">
+                        @Html.DisplayNameFor(model => model.IdCateNavigation)
+                    </dt>
+                    <dd class="col-sm-10">
+                        @Html.DisplayFor(model => model.IdCateNavigation.IdCate)
+                    </dd>
+                    <dt class="col-sm-2">
+                        @Html.DisplayNameFor(model => model.IdProducerNavigation)
+                    </dt>
+                    <dd class="col-sm-10">
+                        @Html.DisplayFor(model => model.IdProducerNavigation.IdProducer)
+                    </dd> *@
+                </dl>
+            </div>
+            <div>
+                <a style="border-radius: 5px;" class="btn btn-info" asp-action="Edit" asp-route-id="@Model?.IdProd">Edit</a>
+                <a style="border-radius: 5px;" class="btn btn-info" href="/Admin/quan-tri">Back to List</a>
+            </div>
+        </div>
+        <div class="col-md-1">
+        </div>
+    </div>
+</div>
+
